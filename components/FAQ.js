@@ -28,16 +28,11 @@ const faqList = [
     question: "Hur hittar jag en hundrastgård nära mig?",
     answer: (
       <p>
-        Att hitta en hundpark i närheten är enkelt med vår användarvänliga
-        webbplats. Använd helt enkelt vår interaktiva kartfunktion genom att
-        ange din stad eller ditt postnummer, så får du en lista över hundparker
-        i ditt område, bekvämt sorterade efter närhet och användarrecensioner.
-        För att begränsa din sökning ytterligare kan du använda våra
-        filtreringsalternativ för att välja parker med specifika funktioner,
-        såsom storlek, agility-utrustning eller särskilda evenemang. Oavsett om
-        du befinner dig i en livlig stad eller i en mer lantlig miljö, kommer
-        vår katalog att hjälpa dig att hitta den perfekta hundparken för dina
-        äventyr.
+        Att hitta en hundpark i närheten är enkelt med vår webbplats. Använd
+        helt enkelt vår interaktiva kartfunktion genom att ange din stad, så får
+        du en lista över hundparker i ditt område. Oavsett om du befinner dig i
+        en livlig stad eller i en mer lantlig miljö, kommer vår katalog att
+        hjälpa dig att hitta den perfekta hundparken för dina äventyr.
       </p>
     ),
   },
@@ -49,11 +44,10 @@ const faqList = [
         besöker hundparker för att säkerställa en harmonisk och säker miljö för
         alla besökare. Till att börja med ska du alltid ha din hund kopplad när
         du går in i och ut ur parken. Väl inne är det viktigt att vara medveten
-        om och följa parkens regler, inklusive eventuella vaccinationskrav och
-        riktlinjer gällande hundens beteende. Ansvarsfullt ägande innebär även
-        att snabbt plocka upp efter din hund och kasta avfallet i
-        tillhandahållna soptunnor. Slutligen är det väsentligt att övervaka din
-        hunds interaktioner med andra hundar för att förhindra konflikter och
+        om och följa parkens regler. Ansvarsfullt ägande innebär även att snabbt
+        plocka upp efter din hund och kasta avfallet i tillhandahållna
+        soptunnor. Slutligen är det väsentligt att övervaka din hunds
+        interaktioner med andra hundar för att förhindra konflikter och
         upprätthålla en positiv upplevelse för alla. Genom att följa dessa
         riktlinjer bidrar du till en välkomnande och trevlig atmosfär på
         hundparken.
@@ -70,13 +64,10 @@ const faqList = [
         erfarenheter via recensioner och betyg för de parker du besöker. Genom
         att göra detta ger du värdefulla insikter till andra som letar efter den
         perfekta platsen. Dessutom kan du överväga att rekommendera parker till
-        vänner och andra hundentusiaster baserat på dina positiva upplevelser,
-        vilket uppmuntrar fler människor att utforska dessa hundvänliga platser.
-        Att hålla dig informerad om lokala hundparksevenemang, insamlingar och
-        volontärmöjligheter är ett annat sätt att göra en positiv insats och
-        hjälpa till att underhålla dessa uppskattade samhällstillgångar. Ditt
+        vänner och andra hundentusiaster baserat på dina upplevelser, vilket
+        uppmuntrar fler människor att utforska dessa hundvänliga platser. Ditt
         engagemang säkerställer den fortsatta framgången och glädjen av
-        hundparker i ditt område.
+        hundrastgårdar i ditt område.
       </p>
     ),
   },
