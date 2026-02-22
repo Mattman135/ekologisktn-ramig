@@ -82,18 +82,6 @@ const config = {
     loginUrl: "/api/auth/signin",
     callbackUrl: "/dashboard",
   },
-  directory: {
-    // Fields to search across when user types in search box
-    searchFields: ["name", "city", "category", "adress", "address"],
-    // Field to use for search suggestions (usually city or name)
-    suggestionField: "city",
-    // Placeholder text for search input
-    searchPlaceholder: "Sök på stad",
-    // Field to display as the main link/address in cards
-    addressField: "adress",
-    // Field to use for the detail page route (usually name)
-    detailRouteField: "name",
-  },
 }
 
 export default config
