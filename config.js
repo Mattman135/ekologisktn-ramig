@@ -1,8 +1,8 @@
 const config = {
   // REQUIRED
-  appName: "App Name",
+  appName: "Ekologiskt",
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
-  appDescription: "App Description",
+  appDescription: "Hitta ekologisk mat nära dig genom att söka i rutan nedan.",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
   domainName: "domain address.se",
 

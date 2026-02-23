@@ -9,15 +9,35 @@ import config from "@/config"
 const faqList = [
   {
     question: `Vad är ${config.appName} och vad kan jag hitta här?`,
-    answer: <p className="space-y-2 leading-relaxed"></p>,
+    answer: (
+      <p className="space-y-2 leading-relaxed">
+        Ekologiskt är en kurerad katalog där du kan hitta noggrant utvalda
+        ekologiska gårdar, matproducenter och butiker – allt samlat på ett och
+        samma ställe för dig som vill handla och äta mer hållbart och
+        ekologiskt.
+      </p>
+    ),
   },
   {
     question: "Vem är den här katalogen till för?",
-    answer: <p className="space-y-2 leading-relaxed"></p>,
+    answer: (
+      <p className="space-y-2 leading-relaxed">
+        Katalogen är skapad för dig som värnar om hälsa och miljö och vill hitta
+        pålitliga källor till ekologisk mat, lokala gårdar och hållbara
+        matupplevelser, utan att behöva leta runt på egen hand.
+      </p>
+    ),
   },
   {
     question: `Varför ska jag använda ${config.appName} istället för en vanlig sökmotor?`,
-    answer: <p className="space-y-2 leading-relaxed"></p>,
+    answer: (
+      <p className="space-y-2 leading-relaxed">
+        Till skillnad från en vanlig sökmotor erbjuder [Ekologiskt] ett
+        genomtänkt och pålitligt urval, så att du slipper sålla igenom
+        orelevanta resultat och snabbt kan hitta ekologiska alternativ som
+        passar dina värderingar och behov.
+      </p>
+    ),
   },
 ]
 
