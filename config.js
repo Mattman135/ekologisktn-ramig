@@ -4,7 +4,7 @@ const config = {
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
   appDescription: "Hitta ekologisk mat nära dig genom att söka i rutan nedan.",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
-  domainName: "domain address.se",
+  domainName: "ekologisktnäramig.se",
 
   stripe: {
     // Create multiple plans in your Stripe dashboard, then add them here. You can add as many plans as you want, just make sure to add the priceId
